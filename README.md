@@ -1,3 +1,6 @@
+This project is to fetch data from an Online API basically and store the data in the device's Local Storage
+You have the ability to fetch the data by synchronizing button
+You also have another button that will delete the data.
 # flutter_application_1
 
 A new Flutter project.
